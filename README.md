@@ -12,4 +12,5 @@ netsh advfirewall firewall add rule name="Abrir Porta 11434" dir=in action=allow
 Use Xampp and run the api.php page on your server. It will work perfectly on localhost:11434
 
 Bitcoin donations: 1DiegoU6ETJXK9hNWVTeuK4Y8fkksPnEnK
+
 USDT donations: 0x1CE864dF66B44B22F22605b366Da928315A1ce17
