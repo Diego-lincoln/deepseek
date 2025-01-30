@@ -2,7 +2,7 @@ To make it work correctly I installed the deepseek-r1 version with the commands 
 curl -fsSL https://ollama.ai/install.sh | bash
 ollama run deepseek-r1
 
-![Celi AI Deep Seek](https://xlocgpu.com/celiaichar.png)
+![Celi AI Deep Seek](https://drive.google.com/file/d/17KO6GDIriYvEPHNmuz37tukgUHoxRnZn/view?usp=sharing)
 
 I installed it using a Tesla H100 (any video card can be used) on Ubuntu 22.04 via Windows 11's WSL (which works perfectly). To allow access to the WSL localhost, use the following commands:
 
