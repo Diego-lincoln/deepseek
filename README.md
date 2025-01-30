@@ -1,6 +1,9 @@
 To make it work correctly I installed the deepseek-r1 version with the commands below:
+
 curl -fsSL https://ollama.ai/install.sh | bash
+
 ollama run deepseek-r1
+
 
 ![Celi AI Deep Seek](https://github.com/Diego-lincoln/deepseek/blob/main/celiaichar.png?raw=true)
 
